@@ -1,0 +1,5 @@
+ultralytics
+streamlit
+pandas
+pillow
+numpy
