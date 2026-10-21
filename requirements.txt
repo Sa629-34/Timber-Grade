@@ -1,5 +1,8 @@
-ultralytics
 streamlit
-pandas
-pillow
-numpy
+ultralytics
+numpy==2.2.6
+pandas==2.2.3
+pillow==11.0.0
+opencv-python==4.10.0.84
+# Install PyTorch (CPU) separately:
+# python -m pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cpu
